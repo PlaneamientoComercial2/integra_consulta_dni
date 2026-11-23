@@ -1,0 +1,10 @@
+# Credenciales y datos privados
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+.venv/
+.env
+Data/
+*.parquet
+*.csv
+*.log
