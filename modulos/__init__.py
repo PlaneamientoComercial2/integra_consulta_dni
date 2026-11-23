@@ -1,1 +1,1 @@
-# Modulos de la aplicacion
+# Paquete de modulos de consulta.
